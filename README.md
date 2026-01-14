@@ -1,5 +1,4 @@
 # What Is a Generative Model?  
-## Definitions, Disagreements, and Evaluation in Human Neuroimaging
 
 This repository contains the de-identified survey data and analysis code supporting the paper:
 
