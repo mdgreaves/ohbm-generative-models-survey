@@ -5,6 +5,8 @@ This repository contains the de-identified survey data and analysis code support
 > **Greaves, M. D., Novelli, L., Breakspear, M., & Razi, A.**  
 > *What Is a Generative Model? Definitions, Disagreements, and Evaluation in Human Neuroimaging*  
 > bioRxiv preprint (link to be added)
+> [![DOI](https://zenodo.org/badge/1133883596.svg)](https://doi.org/10.5281/zenodo.18238047)
+
 
 ## Overview
 
