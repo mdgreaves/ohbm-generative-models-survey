@@ -2,10 +2,7 @@
 
 This repository contains the de-identified survey data and analysis code supporting the paper:
 
-**Greaves, M. D., Novelli, L., Breakspear, M., & Razi, A.**  
-*What Is a Generative Model? Definitions, Disagreements, and Evaluation in Human Neuroimaging.*  
-bioRxiv preprint (2026). doi: [10.64898/2026.01.13.698266](https://doi.org/10.64898/2026.01.13.698266)
-
+**Greaves, M. D., Novelli, L., Breakspear, M., & Razi, A.** *What is a generative model? Definitions, disagreements, and evaluation in human neuroimaging.* Aperture Neuro. 2026;6(SI 3). doi:[10.52294/001c.158926](https://doi.org/10.52294/001c.158926)
 
 ## Overview
 
@@ -43,6 +40,5 @@ Please feel free to reach out.
 [![DOI](https://zenodo.org/badge/1133883596.svg)](https://doi.org/10.5281/zenodo.18238047)
 
 **Greaves, M. D., Novelli, L., Breakspear, M., & Razi, A.**  
-*Code and data for:* *What Is a Generative Model? Definitions, Disagreements, and Evaluation in Human Neuroimaging.*  
-Zenodo (2026). https://doi.org/10.5281/zenodo.18238047
+*Code and data for:* *What is a generative model? Definitions, disagreements, and evaluation in human neuroimaging.* Zenodo (2026). https://doi.org/10.5281/zenodo.18238047
 
